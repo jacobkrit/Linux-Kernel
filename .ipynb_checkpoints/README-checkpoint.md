@@ -82,7 +82,7 @@ Now the actual base system installation will begin as shown in the following scr
 
 # Refs and Sources
 
-- Image: https://www.fosslinux.com/wp-content/uploads/2020/04/Ubuntu-20.04-LTS-focal-fossa-released.jpg
+- Image: https://linuxiac.b-cdn.net/wp-content/uploads/2021/10/ubuntu-22-04-codename-jammy-jellyfish.png
 - Tutorials: https://www.tecmint.com/install-ubuntu-20-04-desktop/
 - Tutorials: https://www.dell.com/support/kbdoc/en-us/000131391/how-to-install-ubuntu-with-multiple-custom-partitions-on-your-dell-pc
 - Tutorials: https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/
